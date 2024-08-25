@@ -2,7 +2,7 @@
 Web Bucin V1 khusus buat orang tercinta &amp; tersayang.
 
 # Demo Site
- <a href="https://wafarifki.github.io/WebBucin-V1/">https://wafarifki.github.io/WebBucin-V1/</a>
+ <a href="https://FamzZet28.github.io/untukkamu/">https://FamzZet28.github.io/untukkamu/</a>
 
 # List Repo Web Bucin
 - <a target="_blank" href="https://github.com/wafarifki/WebBucin-V2">https://github.com/wafarifki/WebBucin-V2</a>
